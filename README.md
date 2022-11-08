@@ -1,6 +1,6 @@
 # Game
-cricket
-this is game built using qt designer and sqlite 
+
+This is game built using qt designer and sqlite 
 The game works like this:
 The player names are added in the database and their point are also mentioned randomly.
 You can only select 11 players on your team
